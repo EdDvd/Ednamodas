@@ -1,3 +1,3 @@
-CREATE SCHEMA `demoalgorith` ;
-CREATE USER 'demouser'@'%' IDENTIFIED BY 'carm3l1t4s';
-GRANT ALL ON demoalgorith.* TO 'demouser'@'%';
+CREATE SCHEMA `ednamodasdb` ;
+CREATE USER 'yotra'@'%' IDENTIFIED BY 'j4rj4rRules4ever';
+GRANT ALL ON ednamodasdb.* TO 'yotra'@'%';
